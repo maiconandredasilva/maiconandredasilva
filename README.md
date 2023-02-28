@@ -1,8 +1,9 @@
-### Hi there 👋
+### 👋 Olá
 
-I am Maicon Andre da Silva
+- 😀 Me chamo Maicon Andre da Silva
+- 🖥 Sou formado em Análise e Desenvolvimento de Sistemas
 
-Graduated in Information Systems
+
 
 <!--
 **maiconandredasilva/maiconandredasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
