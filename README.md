@@ -17,3 +17,10 @@
 <div>
   <a href="https://beacons.ai/maiconandredasilva"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconandredasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconandredasilva&layout=compact&theme=tokyonight&langs_count=6&hide=c++"  /> 
 </div>
+
+### 🛠️ Tecnologias e ferramentas que utilizo:
+
+<div>
+  <img align="center" alt="VSCODE" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  </div>
