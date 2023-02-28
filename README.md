@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Maicon Andre da Silva
+
+Graduated in Information Systems
+
 <!--
 **maiconandredasilva/maiconandredasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
