@@ -15,7 +15,7 @@
 ##
 
 <div>
-  <a href="https://beacons.ai/maiconandredasilva"><img height="130em" src="https://github-readme-stats.vercel.app/api?username=maiconandredasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconandredasilva&layout=compact&theme=tokyonight&langs_count=6&hide=c++"  /> 
+  <a href="https://beacons.ai/maiconandredasilva"><img height="135em" src="https://github-readme-stats.vercel.app/api?username=maiconandredasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconandredasilva&layout=compact&theme=tokyonight&langs_count=6&hide=c++"  /> 
 </div>
 
 ### 🛠️ Tecnologias e ferramentas que utilizo:
